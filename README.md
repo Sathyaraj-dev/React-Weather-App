@@ -16,3 +16,7 @@ https://openweathermap.org/
 **Screenshot 2:**
 
 ![weather-app-2](https://github.com/Sathyaraj-dev/React-Weather-App/assets/57762726/f643c3e2-e7b6-4af6-9193-50d39be42f6a)
+
+**Mobile Screenshot:**
+
+![weather-React App](https://github.com/Sathyaraj-dev/React-Weather-App/assets/57762726/f6b3ea35-8f65-47d5-b366-5e55aa745f44)
